@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+#CSV
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
+
 # Distribution / packaging
 .Python
 build/
